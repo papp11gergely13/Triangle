@@ -1,0 +1,5 @@
+a = int(input('a'))
+b = int(input('b'))
+c = int(input('c'))
+print('Kerület: ' + str(a + b + c) )
+print('terület: ' + str(a+b*2/2))
